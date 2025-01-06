@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Jahnavi, a Data Analyst and AI/ML Enthusiast.  
+I'm Janavi, a Data Analyst and AI/ML Enthusiast.  
 - 🔍 Interested in Data Analysis, AI, and Cybersecurity.  
 - 💡 Passionate about solving real-world problems through data.  
 - 🌱 Currently learning Tableau and Azure.  
